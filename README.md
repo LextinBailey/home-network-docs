@@ -12,7 +12,7 @@ A documented map of a home network. Capturing connected devices, network topolog
 ## 🔑 Key Findings
 
 - 9 active devices on network, 6 identified and documented
-- Rogers Ignite Gateway acts as combiner modem and router
+- Rogers Ignite Gateway acts as combined modem and router
 - Roku TV configured with a DHCP reservation
 
 ## ❌ Privacy Note
